@@ -1,0 +1,1 @@
+include ':chap1', ':chap2', ':chap3', ':chap4_jeu_des', ':chap5_heritage', ':chap6_RecycleView', ':chap7_opendata'
